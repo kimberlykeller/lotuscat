@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>Milestone 2 For Lotus Cat</title>
+		<title>Milestone 2 Documentation</title>
 	</head>
 	<body>
 		<h1>Milestone 2 For Lotus Cat</h1>
