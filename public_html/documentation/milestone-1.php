@@ -20,7 +20,7 @@
 		<p><strong>Goal:</strong> Create an aesthetically pleasing, organized website that serves at the central hub of Lotus Cat activity.
 		Clients should have a strong draw to the design of the website as well as a quick, intuitive understanding of how to find
 		the information they are looking for. The big picture goal of Lotus Cat is to fill a gap in the health and wellness community
-		by providing strength training with an emphasis on functional, healthy, mobile, tissue, excellent breath quality, and good communication
+		by providing strength training with an emphasis on functional, healthy, mobile tissue, excellent breath quality, and good communication
 		with the body.
 		</p>
 	</body>
