@@ -34,7 +34,7 @@
 		and is certified through multiple training organizations. Laura sees a "Schedule An Appointment" button at the bottom of the page and clicks on it.
 		She is redirected to a contact form where she quickly puts in her name, email, and phone number. Laura is excited to hear back and happy with how easy
 		it was to access the site and contact me. Shortly after she is contacted by me and we arrange a meeting
-		to discuss her goals.
+		to discuss her goals
 		<h3>Proposed Site Map</h3>
 		<ul>
 			<li>Home</li>
