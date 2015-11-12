@@ -55,7 +55,7 @@
 		</ul>
 		<h3>Notes</h3>
 		<p>Social presence on platforms such as Instagram, Twitter, and Facebook as well as strong testimonials will be critical
-		to Lotus Cat's success. Word of mouth and excellent reviews will be a driving marketing force. </p>
+		to Lotus Cat's success. Word of mouth and excellent reviews will be a driving marketing force.. </p>
 
 	</body>
 </html>
