@@ -19,7 +19,7 @@
 		class and has disposable income that she likes to spend on her hobbies, cycling equiptment, yoga classes, etc. Laura is also health
 		conscious and takes a holistic approach to fitness and wellness. She wants to make sure
 		that the trainers and coaches she works with are invested in her well being as well as her athletic performance. Her goal is to quickly
-		browse Lotus Cat and get a sense of my driving philosophies and qualifications, once comfortable, she wants to quickly submit a contact
+		browse Lotus Cat and get a sense of the driving philosophies and qualifications, once comfortable, she wants to quickly submit a contact
 		request to set up an appointment. She will primarly accesss the website through her phone or tablet. She has one of the most recent generations of devices and upgrades regularly.
 		<h3>Use Case</h3>
 		<p>Laura is chatting with her cycling partner and friend one chilly October morning. She's interested in improving her cycling time in the upcoming
