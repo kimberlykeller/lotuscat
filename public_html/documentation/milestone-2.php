@@ -42,11 +42,11 @@
 			<li>About</li>
 			<li>Contact</li>
 		</ul>
-		<p><strong>Home</strong> A brief introduction to the site with a clear purpose/mission and a call to action</p>
-		<p><strong>Services</strong> A brief explanation of each service offered as well as a very brief overview of my personal training philosophies.
+		<p><strong>Home:</strong> A brief introduction to the site with a clear purpose/mission and a call to action</p>
+		<p><strong>Services:</strong> A brief explanation of each service offered as well as a very brief overview of my personal training philosophies.
 		Also includes a button redirects them to the contact page.</p>
-		<p><strong>About</strong> My certs, philosophies, and a brief personal history</p>
-		<p><strong>Contact</strong> A contact form so they may get in touch with me</p>
+		<p><strong>About:</strong> My certs, philosophies, and a brief personal history</p>
+		<p><strong>Contact:</strong> A contact form so they may get in touch with me</p>
 
 	</body>
 </html>
