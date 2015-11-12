@@ -47,7 +47,7 @@
 		Also includes a button redirects them to the contact page.</p>
 		<p><strong>About:</strong> My certs, philosophies, and a brief personal history</p>
 		<p><strong>Contact:</strong> A contact form so they may get in touch with me</p>
-		<h3>Feature Stretch Goals</h3>
+		<h3>Stretch Goals</h3>
 		<ul>
 			<li>Scheduler</li>
 			<li>Strong Social Media Integrations</li>
@@ -55,7 +55,7 @@
 		</ul>
 		<h3>Notes</h3>
 		<p>Social presence on platforms such as Instagram, Twitter, and Facebook as well as strong testimonials will be critical
-		to Lotus Cat's success. Word of mouth and excellent reviews will be a driving marketing force.. </p>
+		to Lotus Cat's success. Word of mouth and excellent reviews will be a driving marketing force. </p>
 
 	</body>
 </html>
