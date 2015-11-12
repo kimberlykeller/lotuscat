@@ -34,7 +34,7 @@
 		and is certified through multiple training organizations. Laura sees a "Schedule An Appointment" button at the bottom of the page and clicks on it.
 		She is redirected to a contact form where she quickly puts in her name, email, and phone number. Laura is excited to hear back and happy with how easy
 		it was to access the site and contact me. Shortly after she is contacted by me and we arrange a meeting
-		to discuss her goals
+		to discuss her goals.
 		<h3>Proposed Site Map</h3>
 		<ul>
 			<li>Home</li>
@@ -47,6 +47,15 @@
 		Also includes a button redirects them to the contact page.</p>
 		<p><strong>About:</strong> My certs, philosophies, and a brief personal history</p>
 		<p><strong>Contact:</strong> A contact form so they may get in touch with me</p>
+		<h3>Feature Stretch Goals</h3>
+		<ul>
+			<li>Scheduler</li>
+			<li>Strong Social Media Integrations</li>
+			<li>Google Maps API</li>
+		</ul>
+		<h3>Notes</h3>
+		<p>Social presence on platforms such as Instagram, Twitter, and Facebook as well as strong testimonials will be critical
+		to Lotus Cat's success. Word of mouth and excellent reviews will be a driving marketing force. </p>
 
 	</body>
 </html>
