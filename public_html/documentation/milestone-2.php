@@ -23,7 +23,7 @@
 		request to set up an appointment. She will primarly accesss the website through her phone or tablet. She has one of the most recent generations of devices and upgrades regularly.
 		<h3>Use Case</h3>
 		<p>Laura is chatting with her cycling partner and friend one chilly October morning. She's interested in improving her cycling time in the upcoming
-		meet. She's tried everything, but between her work life, home life, and social life, she doesn't have time to be her own trainer. Her friend
+		meet. She's training as a cyclist, but between her work life, home life, and social life, she doesn't have time to be her own strength coach too. Her friend
 		Rachel tells her to check out Lotus Cat, there are one on one sessions, small classes, and group rates. Adding some strength and mobility work to
 		her routine really helped Rachel's cycling performance.
 		</p>
