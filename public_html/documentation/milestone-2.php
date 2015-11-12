@@ -24,7 +24,7 @@
 		<h3>Use Case</h3>
 		<p>Laura is chatting with her cycling partner and friend one chilly October morning. She's interested in improving her cycling time in the upcoming
 		meet. She's training as a cyclist, but between her work life, home life, and social life, she doesn't have time to be her own strength coach too. Her friend
-		Rachel tells her to check out Lotus Cat, there are one on one sessions, small classes, and group rates. Adding some strength and mobility work to
+		Rachel tells her to check out Lotus Cat, there are one on one sessions or small (3-4 person) classes. Adding some strength and mobility work to
 		her routine really helped Rachel's cycling performance.
 		</p>
 		<p>
