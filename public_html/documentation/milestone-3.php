@@ -16,6 +16,7 @@
 			<li>Modal for contact form</li>
 			<li>Responsive</li>
 			<li>Contact buttons for extra nudge to contact</li>
+			<li>Decorative typeface for logo</li>
 		</ul>
 		
 		<h3>Front Page Desktop</h3>
