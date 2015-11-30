@@ -18,3 +18,4 @@
 		<h3>Mobile Views</h3>
 		<img src="/public_html/img/mobile.jpeg">
 	</body>
+</html>
