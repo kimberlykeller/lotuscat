@@ -12,10 +12,10 @@
 		feature a high quality photo and the body text. </p>
 		
 		<h3>Front Page Desktop</h3>
-		<img src="/public_html/img/frontpage-desktop.jpeg">
+		<img src="../img/frontpage-desktop.jpeg">
 		<h3>Content View Desktop</h3>
-		<img src="/public_html/img/contentview-desktop.jpeg">
+		<img src="../img/contentview-desktop.jpeg">
 		<h3>Mobile Views</h3>
-		<img src="/public_html/img/mobile.jpeg">
+		<img src="../img/mobile.jpeg">
 	</body>
 </html>
