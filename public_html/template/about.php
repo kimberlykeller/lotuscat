@@ -10,10 +10,10 @@ require_once("header.php");
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-6">
-					<img src="../lib/img/lotus.png" class="img-responsive"/>
+					<img id="renly" src="../lib/img/coffee.jpg" class="img-rounded img-responsive"/>
 				</div>
 				<div class="col-md-6">
-					<h1 class="text-center animated fadeInDown">Services</h1>
+					<h1 class="text-center animated fadeInDown">About Me</h1>
 					<p>
 						These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds,
 						to seek out new life and new civilizations, to boldly go where no one has gone before. We need to neutralize

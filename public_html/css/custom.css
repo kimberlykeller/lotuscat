@@ -55,23 +55,15 @@ footer {
 /********************************************
 * Utility Styles
 *
-* These styles control the layout
+* base styles used throughout the site
 ********************************************/
 
 h1 {
 	font-family: 'Reenie Beanie', sans-serif;
-}
 
-#logo {
-	font-size: 30px;
-	font-family: 'Reenie Beanie', sans-serif;
-	color: rgb(104,195,163);
 }
 
 
-.inline {
-	display: inline;
-}
 
 /********************************************
 * Footer Styles
@@ -96,4 +88,25 @@ body { width: 100%;}
 	flex: 1 0 auto;
 	background-size: cover;
 	padding-bottom: 100px;
+}
+
+/********************************************
+* Special Corrective Styles
+*
+* These styles control some special corrections
+********************************************/
+
+#logo {
+	font-size: 30px;
+	font-family: 'Reenie Beanie', sans-serif;
+	color: rgb(104,195,163);
+}
+
+
+.inline {
+	display: inline;
+}
+
+#renly {
+	height: 700px;
 }
