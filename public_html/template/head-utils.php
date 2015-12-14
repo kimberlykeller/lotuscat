@@ -31,7 +31,7 @@
 		<!--CUSTOM JS-->
 
 		<!--Page Title-->
-		<title></title>
+		<title><?php echo $PAGE_TITLE; ?></title>
 
 		<!-- Google Analytics -->
 		<script>

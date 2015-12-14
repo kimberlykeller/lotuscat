@@ -2,6 +2,7 @@
 
 require_once("head-utils.php");
 require_once("header.php");
+$PAGE_TITLE = "Services";
 
 ?>
 
