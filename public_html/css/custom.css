@@ -1,4 +1,24 @@
-.img-sm {
-	height: 500px;
-	width: auto;
+/********************************************
+* Footer Styles
+********************************************/
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+	background-size: cover;
+	padding-bottom: 100px;
 }

@@ -20,10 +20,10 @@
 		</ul>
 		
 		<h3>Front Page Desktop</h3>
-		<img class="img-sm" src="../img/frontpage-desktop.jpeg">
+		<img class="img-sm" src="img/frontpage-desktop.jpeg">
 		<h3>Content View Desktop</h3>
-		<img class="img-sm" src="../img/contentview-desktop.jpeg">
+		<img class="img-sm" src="img/contentview-desktop.jpeg">
 		<h3>Mobile Views</h3>
-		<img class="img-sm" src="../img/mobile.jpeg">
+		<img class="img-sm" src="img/mobile.jpeg">
 	</body>
 </html>
