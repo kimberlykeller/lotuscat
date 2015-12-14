@@ -10,10 +10,10 @@ $PAGE_TITLE = "Services";
 	<main class="sfooter-content">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-6">
-					<img id="renly" src="../lib/img/renly.jpg" class="img-rounded img-responsive"/>
+				<div class="col-sm-6">
+					<img  src="../lib/img/renly.jpg" class="img-rounded img-responsive"/>
 				</div>
-				<div class="col-md-6">
+				<div class="col-sm-6">
 					<h1 class="text-center animated fadeInDown">Services</h1>
 					<p>
 						These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds,

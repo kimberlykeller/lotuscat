@@ -10,10 +10,10 @@ $PAGE_TITLE = "About";
 	<main class="sfooter-content">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-sm-6">
 					<img id="renly" src="../lib/img/coffee.jpg" class="img-rounded img-responsive"/>
 				</div>
-				<div class="col-md-6">
+				<div class="col-sm-6">
 					<h1 class="text-center animated fadeInDown">About Me</h1>
 					<p>
 						These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds,
