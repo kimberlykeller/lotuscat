@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		<!--Google Fonts-->
-		<link href='https://fonts.googleapis.com/css?family=Noto+Sans|Josefin+Sans' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Lato|Reenie+Beanie' rel='stylesheet' type='text/css'>
 
 		<!--Font Awesome-->
 		<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />

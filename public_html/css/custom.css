@@ -1,4 +1,79 @@
 /********************************************
+* CSS Styles for Lotus Cat Movement
+* https://lotuscatmovement.com
+*
+* @author keller.kimberly@gmail.com
+********************************************/
+
+/********************************************
+* LOTUS CAT Custom Colors
+
+* Header/footer rgb(56, 67, 64)
+* Links/logo rgb(104,195,163)
+* links/logo 2 rgb(171, 205, 193)
+*
+* @author keller.kimberly@gmail.com
+********************************************/
+
+/********************************************
+* Layout Styles
+*
+* These styles control the layout
+********************************************/
+
+body {
+	background-color: ghostwhite;
+}
+
+header {
+	background-color: rgb(56, 67, 64);
+	padding-top: 10px;
+	margin-bottom: 40px;
+}
+
+footer {
+	color: rgb(104,195,163);
+	font-family: 'Lato', sans-serif;
+	background-color: rgb(56, 67, 64);
+	margin-top: 40px;
+	padding: 30px 0;
+}
+
+
+/********************************************
+* Nav Styles
+*
+* These styles control the layout
+********************************************/
+
+.nav a {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	color: rgb(104,195,163);
+}
+
+/********************************************
+* Utility Styles
+*
+* These styles control the layout
+********************************************/
+
+h1 {
+	font-family: 'Reenie Beanie', sans-serif;
+}
+
+#logo {
+	font-size: 30px;
+	font-family: 'Reenie Beanie', sans-serif;
+	color: rgb(104,195,163);
+}
+
+
+.inline {
+	display: inline;
+}
+
+/********************************************
 * Footer Styles
 ********************************************/
 
