@@ -8,3 +8,9 @@ Awesome job on Milestone 2. You have an excellent direction to move forward with
 
 ## Milestone 3 Feeback
 Great job here - love your layout ideas, and I'm looking forward to seeing it take shape. This layout should be a breeze using Bootstrap. Your Milestone 3 passes at Tier IV - go ahead and get started on development!
+
+## Milestone 4 Feedback
+Awesome start! This should come together fairly quickly based on what you have already. Don't forget to include a contact form and install swiftmailer. See [Sending Email in PHP](https://bootcamp-coders.cnm.edu/class-materials/php/email/)
+
+### Suggestions
+- When you deploy to A Small Orange, use CPanel to set the Document Root to your /public_html directory.
