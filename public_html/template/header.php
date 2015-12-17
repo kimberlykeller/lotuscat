@@ -16,7 +16,7 @@
 				<li><a href="index.php" class="menu-item">home</a></li>
 				<li><a href="servies.php" class="menu-item">services</a></li>
 				<li><a href="about.php" class="menu-item">about</a></li>
-				<li><a href="about-me.php#contact" class="menu-item">contact</a></li>
+				<li><a href="contact.php" class="menu-item">contact</a></li>
 		</div>
 		</ul>
 	</nav>
