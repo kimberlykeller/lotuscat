@@ -31,7 +31,7 @@
 		<!--CUSTOM JS-->
 
 		<!--Page Title-->
-		<title><?php echo $PAGE_TITLE; ?></title>
+		<title>Lotus Cat</title>
 
 		<!-- Google Analytics -->
 		<script>

@@ -10,10 +10,10 @@ $PAGE_TITLE = "Home";
 	<main class="sfooter-content">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-sm-6">
 					<img src="../lib/img/lotus.png" class="img-responsive"/>
 				</div>
-				<div class="col-md-6">
+				<div class="col-sm-6">
 					<h1 class="text-center animated fadeInDown">Move. Breath. Lift.</h1>
 				</div>
 			</div>
