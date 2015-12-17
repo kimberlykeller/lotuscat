@@ -1,3 +1,5 @@
+<!--Navbar for LotusCat Movement-->
+
 <header class="content-header">
 	<nav class="nav navbar">
 		<div class="navbar-header">
