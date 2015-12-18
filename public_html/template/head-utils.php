@@ -1,3 +1,18 @@
+<?php
+/**
+ * Get the relative path.
+ * @see https://raw.githubusercontent.com/kingscreations/farm-to-you/master/php/lib/_header.php FarmToYou Header
+ **/
+
+// include the appropriate number of dirname() functions
+// on line 8 to correctly resolve your directory's path
+require_once(dirname(__DIR__) . "/root-path.php");
+$CURRENT_DEPTH = substr_count($CURRENT_DIR, "/");
+$ROOT_DEPTH = substr_count($ROOT_PATH, "/");
+$DEPTH_DIFFERENCE = $CURRENT_DEPTH - $ROOT_DEPTH;
+$PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -16,10 +31,10 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous" />
 
 		<!--Animate CSS--->
-		<link rel="stylesheet" href="../css/animate.css" />
+		<link rel="stylesheet" href="<?php echo $PREFIX; ?>css/animate.css" />
 
 		<!--CUSTOM stylesheets-->
-		<link rel="stylesheet" href="../css/custom.css" />
+		<link rel="stylesheet" href="<?php echo $PREFIX; ?>css/custom.css" />
 
 
 		<!----------------------------Javascript-------------------------------------------->
@@ -31,7 +46,7 @@
 		<!--CUSTOM JS-->
 
 		<!--Page Title-->
-		<title>Lotus Cat</title>
+		<title><?php echo $PAGE_TITLE; ?></title>
 
 		<!-- Google Analytics -->
 		<script>

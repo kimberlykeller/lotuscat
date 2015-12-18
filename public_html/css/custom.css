@@ -10,7 +10,7 @@
 
 * Header/footer rgb(56, 67, 64)
 * Links/logo rgb(104,195,163)
-* links/logo 2 rgb(171, 205, 193)
+*
 *
 * @author keller.kimberly@gmail.com
 ********************************************/
@@ -60,10 +60,67 @@ footer {
 
 h1 {
 	font-family: 'Reenie Beanie', sans-serif;
-
+	font-size: 50px;
 }
 
 
+.custom-image {
+	margin: 0px auto;
+
+}
+
+.content-box {
+	padding: 0px 20px;
+}
+
+
+
+/********************************************
+* Form Styles
+********************************************/
+
+.form-wrap {
+	background-color: rgba(104,195,163, .8);
+}
+
+
+
+.input-group-addon {
+	background-color:  rgb(104,195,163);
+	color: rgb(56, 67, 64);
+	border: solid rgb(56, 67, 64) 1px;
+	border-radius: 0;
+}
+
+.control-label {
+	font-family: 'Lato', sans-serif;
+}
+
+.input-group .form-control {
+	background-color:  rgb(104,195,163) !important;
+	border: solid rgb(56, 67, 64) 1px;
+	border-radius: 0;
+}
+
+textarea.form-control {
+	background-color:  rgb(104,195,163) !important;
+	border: solid rgb(56, 67, 64) 1px;
+	border-radius: 0;
+}
+
+#contactForm .btn {
+	background: rgb(104,195,163) !important;;
+	border-color: rgb(56, 67, 64) !important;
+	border-radius: 0;
+	box-shadow: none;
+	color: rgb(56, 67, 64) !important;
+	text-shadow: none;
+	transition: all 250ms ease;
+	-moz-transition: all 250ms ease;
+	-ms-transition: all 250ms ease;
+	-o-transition: all 250ms ease;
+	-webkit-transition: all 250ms ease;
+}
 
 /********************************************
 * Footer Styles

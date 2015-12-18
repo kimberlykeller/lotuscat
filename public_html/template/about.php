@@ -1,5 +1,9 @@
 <?php
-
+/*grab current directory*/
+$CURRENT_DIR = __DIR__;
+/*set page title here*/
+$PAGE_TITLE = "Lotus Cat";
+/*load head-utils.php*/
 require_once("head-utils.php");
 require_once("header.php");
 $PAGE_TITLE = "About";
@@ -10,10 +14,10 @@ $PAGE_TITLE = "About";
 	<main class="sfooter-content">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-sm-6">
-					<img id="renly" src="../lib/img/coffee.jpg" class="img-rounded img-responsive"/>
+				<div class="col-sm-6 content-box">
+					<img id="renly" src="<?php echo $PREFIX; ?>lib/img/coffee.jpg" class="img-rounded img-responsive custom-image"/>
 				</div>
-				<div class="col-sm-6">
+				<div class="col-sm-6 content-box">
 					<h1 class="text-center animated fadeInDown">About Me</h1>
 					<p>
 						These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds,
