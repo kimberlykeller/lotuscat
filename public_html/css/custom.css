@@ -71,9 +71,9 @@ h1 {
 }
 
 .fa {
-	color: rgb(104,195,163);
+	color: rgb(56, 67, 64) !important;
 	font-size: 30px;
-	margin: 0px 10px;
+	margin: 0px 5px;
 }
 
 hr {
