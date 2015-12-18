@@ -15,10 +15,16 @@ $PAGE_TITLE = "Home";
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-6 content-box">
-					<img src="<?php echo $PREFIX; ?>lib/img/lotus.png" class="img-responsive"/>
+					<img src="<?php echo $PREFIX; ?>lib/img/lotus.png" class="media-img img-responsive"/>
 				</div>
 				<div class="col-sm-6 content-box">
-					<h1 class="text-center animated fadeInDown">Move. Breath. Lift.</h1>
+					<div class="row" id="homerow">
+						<h1 class="text-center animated fadeInDown" id="h1-home">Move. Breath. Lift.</h1>
+					</div>
+					<div class="row text-center">
+						<hr />
+						<a class="btn btn-home" role="button" href="servies.php">Get Started</a>
+					</div>
 				</div>
 			</div>
 		</div>
