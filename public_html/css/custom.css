@@ -109,6 +109,7 @@ textarea.form-control {
 }
 
 #contactForm .btn {
+	margin: 0px 0px 20px;
 	background: rgb(104,195,163) !important;;
 	border-color: rgb(56, 67, 64) !important;
 	border-radius: 0;
