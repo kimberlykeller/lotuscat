@@ -21,7 +21,7 @@ $PAGE_TITLE = "Contact";
 					<label for="name" class="control-label">Name</label>
 					<div class="input-group">
 						<div class="input-group-addon">
-							<span class="fa fa-user" aria-hidden="true"></span>
+							<span class="fa fa-form fa-user" aria-hidden="true"></span>
 						</div>
 						<input type="text" class="form-control" id="name" name="name" >
 					</div>
@@ -31,7 +31,7 @@ $PAGE_TITLE = "Contact";
 					<label for="email" class="control-label">Email</label>
 					<div class="input-group">
 						<div class="input-group-addon">
-							<span class="fa fa-envelope" aria-hidden="true"></span>
+							<span class="fa fa-form fa-envelope" aria-hidden="true"></span>
 						</div>
 						<input type="email" class="form-control" id="email" name="email" >
 					</div>
@@ -41,7 +41,7 @@ $PAGE_TITLE = "Contact";
 					<label for="subject" class="control-label">Subject</label>
 					<div class="input-group">
 						<div class="input-group-addon">
-							<span class="fa fa-pencil" aria-hidden="true"></span>
+							<span class="fa fa-form fa-pencil" aria-hidden="true"></span>
 						</div>
 						<input type="text" class="form-control" id="subject" name="subject" >
 					</div>

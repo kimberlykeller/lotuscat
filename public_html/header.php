@@ -6,7 +6,7 @@
 			<a id="logo" class="navbar-brand" href="index.php">LOTUS | CAT</a>
 			<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#my-navbar" aria-expanded="false">
 				<span class="sr-only">Main Menu</span>
-				<span class="glyphicon glyphicon-menu-hamburger"></span>
+				<span class="fa fa-social fa-bars"></span>
 			</button>
 		</div>
 		​

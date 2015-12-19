@@ -23,7 +23,7 @@ $PAGE_TITLE = "Home";
 					</div>
 					<div class="row text-center">
 						<hr />
-						<a class="btn btn-home" role="button" href="servies.php">Get Started</a>
+						<a class="btn btn-home" role="button" href="services.php">Get Started</a>
 					</div>
 				</div>
 			</div>

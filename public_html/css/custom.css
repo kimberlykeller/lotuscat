@@ -70,10 +70,16 @@ h1 {
 	padding: 0px 20px;
 }
 
-.fa {
-	color: rgb(56, 67, 64) !important;
-	font-size: 30px;
+.fa-form {
+	color: rgb(56, 67, 64);
+	font-size: 20px;
 	margin: 0px 5px;
+}
+
+.fa-social {
+	color: rgb(104,195,163);
+	font-size: 30px;
+	margin: 0px 10px;
 }
 
 hr {
@@ -195,7 +201,7 @@ body { width: 100%;}
 ********************************************/
 
 #logo {
-	font-size: 30px;
+	font-size: 40px;
 	font-family: 'Reenie Beanie', sans-serif;
 	color: rgb(104,195,163);
 }
